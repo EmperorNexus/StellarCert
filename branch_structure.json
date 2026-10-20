@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1105-issuers-can-read-other-issuers-certificates",
+    "fix/issue-794-notification-preferences-link-is-a-raw-a-href",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1105-issuers-can-read-other-issuers-certificates": "main",
+    "fix/issue-794-notification-preferences-link-is-a-raw-a-href": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1105-issuers-can-read-other-issuers-certificates",
+    "fix/issue-794-notification-preferences-link-is-a-raw-a-href",
+    "origin"
+  ]
+}
